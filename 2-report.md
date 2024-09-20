@@ -8,7 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
-|stuID| stuname | http://github.com/... |
+|66030243| ธัญเทพ หาญกล้า | (https://github.com/SadPao0102/Project-lnwza007-2567/tree/main)|
 
 
 
