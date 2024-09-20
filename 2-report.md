@@ -8,7 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
-|stuID| stuname | http://github.com/... |
+|66030029| จิรสิน วรศิริ | (https://github.com/jirasinworasiri/Project-lnwza007-2567) |
 
 
 
