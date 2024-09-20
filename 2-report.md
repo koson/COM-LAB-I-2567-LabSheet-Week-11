@@ -8,7 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
-|stuID| stuname | http://github.com/... |
+|66030010| กันตพัฒน์ ตั้งกิตติธารา | (https://github.com/nongbluelnwza007/Project-lnwza007-2567) |
 
 
 
